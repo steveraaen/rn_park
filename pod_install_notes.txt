@@ -11,3 +11,5 @@ echo 'eval "$(rbenv init -)"' >> ~/.zshrc
 And restart the terminal or run source ~/.zshrc.
 
 Discussion: https://stackoverflow.com/questions/74189532/your-ruby-version-is-2-6-8-but-your-gemfile-specified-2-7-5
+
+test
